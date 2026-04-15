@@ -1,0 +1,4 @@
+discord.py
+qrcode[pil]
+pillow
+pybrcode
